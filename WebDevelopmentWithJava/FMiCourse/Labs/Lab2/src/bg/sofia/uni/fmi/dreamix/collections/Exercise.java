@@ -46,4 +46,7 @@ public class Exercise {
     // Extract legs inside list/set that have from/to airport for a specific airport
     // (Example: All legs for airport LBSF)
 
+    public static void main(String[] args) {
+        
+    }
 }
