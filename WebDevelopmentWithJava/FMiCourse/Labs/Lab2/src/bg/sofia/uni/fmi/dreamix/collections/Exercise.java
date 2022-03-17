@@ -47,6 +47,6 @@ public class Exercise {
     // (Example: All legs for airport LBSF)
 
     public static void main(String[] args) {
-        
+
     }
 }
